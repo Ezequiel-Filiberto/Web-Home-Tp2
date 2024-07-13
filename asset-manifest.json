@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Web-Home-Tp2/static/css/main.e5284703.css",
+    "main.js": "/Web-Home-Tp2/static/js/main.3da50ecb.js",
+    "static/js/453.75260b8d.chunk.js": "/Web-Home-Tp2/static/js/453.75260b8d.chunk.js",
+    "static/media/web-desktop-home@3x.png": "/Web-Home-Tp2/static/media/web-desktop-home@3x.c7a40288db947f34bc8a.png",
+    "static/media/web-desktop-curso@3x.png": "/Web-Home-Tp2/static/media/web-desktop-curso@3x.3b6b43c338472e4a4cee.png",
+    "static/media/hero1@3x.png": "/Web-Home-Tp2/static/media/hero1@3x.c14af1a42bd9070a1112.png",
+    "static/media/hero@3x.png": "/Web-Home-Tp2/static/media/hero@3x.235a7f48b3de2cd0a625.png",
+    "static/media/institucion1@3x.png": "/Web-Home-Tp2/static/media/institucion1@3x.de1a9b386bb72bc0a7b9.png",
+    "static/media/cursos2@3x.png": "/Web-Home-Tp2/static/media/cursos2@3x.45ed62787dc8986128ae.png",
+    "static/media/profesores@3x.png": "/Web-Home-Tp2/static/media/profesores@3x.48bbd51a1df6cdd841c2.png",
+    "static/media/preguntas@3x.png": "/Web-Home-Tp2/static/media/preguntas@3x.e2205d5090f8bdc80b3e.png",
+    "static/media/cursos@3x.png": "/Web-Home-Tp2/static/media/cursos@3x.a17a9d7528f3745a796a.png",
+    "static/media/cursos1@3x.png": "/Web-Home-Tp2/static/media/cursos1@3x.cd083bdd9905fca6520d.png",
+    "static/media/ubicacion@3x.png": "/Web-Home-Tp2/static/media/ubicacion@3x.5344b450899d5049d340.png",
+    "static/media/ubicacion1@3x.png": "/Web-Home-Tp2/static/media/ubicacion1@3x.9901c68d3687d8bf1e91.png",
+    "static/media/fotos-ultimos-trabajos@3x.png": "/Web-Home-Tp2/static/media/fotos-ultimos-trabajos@3x.a19b09b080253b9c2290.png",
+    "static/media/datos-extra1@3x.png": "/Web-Home-Tp2/static/media/datos-extra1@3x.700e90b63c0bb140122a.png",
+    "static/media/contacto@3x.png": "/Web-Home-Tp2/static/media/contacto@3x.4d152c98d13873effccd.png",
+    "static/media/pie-de-pgina@3x.png": "/Web-Home-Tp2/static/media/pie-de-pgina@3x.64df93b1763e1fe1a462.png",
+    "static/media/pie-de-pgina1@3x.png": "/Web-Home-Tp2/static/media/pie-de-pgina1@3x.1515a6492cd363bc95f0.png",
+    "static/media/datos-extra@3x.png": "/Web-Home-Tp2/static/media/datos-extra@3x.ccee443acf9922d6f730.png",
+    "static/media/contacto1@3x.png": "/Web-Home-Tp2/static/media/contacto1@3x.7efbb858903ba1a8970b.png",
+    "static/media/posteos-recientes1@3x.png": "/Web-Home-Tp2/static/media/posteos-recientes1@3x.82c5776e09570ac8db8b.png",
+    "static/media/posteos-recientes2@3x.png": "/Web-Home-Tp2/static/media/posteos-recientes2@3x.3354494972178ee939e6.png",
+    "static/media/que-dicen-nuestros-profesionales@3x.png": "/Web-Home-Tp2/static/media/que-dicen-nuestros-profesionales@3x.cc348e5b0c3227af7859.png",
+    "static/media/institucion@3x.png": "/Web-Home-Tp2/static/media/institucion@3x.ebd511b0ca99fe86fa4d.png",
+    "static/media/profesores1@3x.png": "/Web-Home-Tp2/static/media/profesores1@3x.ae2749c9a9208ff9afea.png",
+    "static/media/posteos-recientes@3x.png": "/Web-Home-Tp2/static/media/posteos-recientes@3x.2e09e7ca36094dd3e831.png",
+    "static/media/quienes-somos@3x.png": "/Web-Home-Tp2/static/media/quienes-somos@3x.212ed043a86658582bb1.png",
+    "index.html": "/Web-Home-Tp2/index.html",
+    "main.e5284703.css.map": "/Web-Home-Tp2/static/css/main.e5284703.css.map",
+    "main.3da50ecb.js.map": "/Web-Home-Tp2/static/js/main.3da50ecb.js.map",
+    "453.75260b8d.chunk.js.map": "/Web-Home-Tp2/static/js/453.75260b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5284703.css",
+    "static/js/main.3da50ecb.js"
+  ]
+}
